@@ -1,0 +1,5 @@
+
+const squareOfSum = (a,b) => {return (a * a) + (2*a*b) + (b * b);
+console.log (squareOfSum(2,3));
+};
+
